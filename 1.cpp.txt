@@ -1,0 +1,26 @@
+#include <iostream>
+#include <math>
+11. y=fact(x) + 3x^3x
+using namespace std
+
+double addend1(double x)
+{
+	return fact(x);
+}
+
+double addend2(double x)
+{
+	return 3*x*3*x;
+}
+
+double y(double x)
+{
+	return addend1(x)+addend2(x);
+}
+int main()
+{
+   cout<<y(0)<<endl;
+   count<<"Hello world!";<<endl; 
+   return 0;
+}
+
