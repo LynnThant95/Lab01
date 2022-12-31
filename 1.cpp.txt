@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math>
 11. y=fact(x) + 3x^3x
-using namespace std
+using namespace std;
 
 double addend1(double x)
 {
